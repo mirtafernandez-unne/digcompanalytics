@@ -1,0 +1,1946 @@
+{
+"ITAA 2026": {
+"n_students": 345,
+"log_mean": 2.562302367548128,
+"log_sd": 0.8541789934790712,
+"start": "2026-03-05",
+"end": "2026-04-17",
+"student_mix": [
+[
+"Carpeta",
+"Directorio descargado en formato Zip",
+"web",
+96
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"web",
+887
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"ws",
+108
+],
+[
+"Correo",
+"Mensaje enviado",
+"web",
+5
+],
+[
+"Correo",
+"Mensaje visto",
+"web",
+17
+],
+[
+"Foro",
+"Módulo de curso visto",
+"web",
+227
+],
+[
+"Foro",
+"Módulo de curso visto",
+"ws",
+15
+],
+[
+"Foro",
+"Seguimiento de lectura deshabilitado",
+"web",
+5
+],
+[
+"Foro",
+"Tema visto",
+"web",
+194
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"web",
+417
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"ws",
+32
+],
+[
+"Sistema",
+"Curso visto",
+"web",
+2831
+],
+[
+"Sistema",
+"Curso visto",
+"ws",
+152
+],
+[
+"Sistema",
+"Informe usuario del curso visto",
+"web",
+5
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"web",
+68
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"ws",
+18
+],
+[
+"Sistema",
+"Perfil de usuario visto",
+"web",
+21
+],
+[
+"Sistema",
+"Rol asignado",
+"web",
+341
+],
+[
+"Sistema",
+"Sección vista",
+"web",
+310
+],
+[
+"Sistema",
+"Sumarios de cursos vistos",
+"web",
+3
+],
+[
+"Sistema",
+"Usuario matriculado en el curso",
+"web",
+341
+],
+[
+"URL",
+"Módulo de curso visto",
+"web",
+202
+],
+[
+"Usuario",
+"Informe de notas de usuario visto",
+"web",
+34
+],
+[
+"Usuario",
+"Informe de notas de usuario visto",
+"ws",
+10
+]
+],
+"staff_mix": [
+[
+"Sistema",
+"Pregunta borrada",
+"cli",
+87
+],
+[
+"Sistema",
+"Curso visto",
+"web",
+54
+],
+[
+"Sistema",
+"Módulo de curso actualizado",
+"web",
+33
+],
+[
+"Sistema",
+"Evento de calendario actualizado",
+"web",
+30
+],
+[
+"Sistema",
+"Módulo de curso eliminado",
+"cli",
+16
+],
+[
+"Sistema",
+"Elemento de calificación creado",
+"restore",
+14
+],
+[
+"Sistema",
+"Evento de calendario creado",
+"cli",
+14
+],
+[
+"Sistema",
+"Elemento de calificación actualizado",
+"restore",
+13
+],
+[
+"Sistema",
+"Elemento de calificación actualizado",
+"web",
+12
+],
+[
+"Sistema",
+"Evento de calendario actualizado",
+"cli",
+11
+],
+[
+"Sistema",
+"Evento de calendario borrado",
+"cli",
+9
+],
+[
+"Sistema",
+"Sección vista",
+"web",
+9
+],
+[
+"Foro",
+"Módulo de curso visto",
+"web",
+8
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"web",
+7
+],
+[
+"Sistema",
+"Sección de curso actualizado",
+"web",
+7
+],
+[
+"Sistema",
+"Sección del curso creada",
+"restore",
+7
+],
+[
+"Sistema",
+"Rol asignado",
+"cli",
+6
+],
+[
+"Sistema",
+"Usuario matriculado en el curso",
+"cli",
+6
+],
+[
+"Correo",
+"Mensaje visto",
+"web",
+5
+],
+[
+"Sistema",
+"Elemento de calificación eliminado",
+"cli",
+5
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"web",
+5
+],
+[
+"Correo",
+"Mensaje enviado",
+"web",
+3
+],
+[
+"Sistema",
+"Instancia de inscripción creada",
+"restore",
+3
+],
+[
+"URL",
+"Módulo de curso visto",
+"web",
+3
+]
+],
+"n_staff": 5
+},
+"LED 2024": {
+"n_students": 456,
+"log_mean": 5.176652870744809,
+"log_sd": 0.9232947391354454,
+"start": "2024-03-16",
+"end": "2024-12-31",
+"student_mix": [
+[
+"Archivos enviados",
+"Entrega creada.",
+"web",
+650
+],
+[
+"Archivos enviados",
+"Entrega creada.",
+"ws",
+52
+],
+[
+"Archivos enviados",
+"Envío actualizado.",
+"web",
+53
+],
+[
+"Archivos enviados",
+"Envío actualizado.",
+"ws",
+3
+],
+[
+"Archivos enviados",
+"Un fichero ha sido subido.",
+"web",
+703
+],
+[
+"Archivos enviados",
+"Un fichero ha sido subido.",
+"ws",
+55
+],
+[
+"Carpeta",
+"Directorio descargado en formato Zip",
+"web",
+48
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"web",
+698
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"ws",
+51
+],
+[
+"Comentarios de la entrega",
+"Comentario creado",
+"web",
+19
+],
+[
+"Cuestionario",
+"Ha comenzado el intento",
+"web",
+1277
+],
+[
+"Cuestionario",
+"Ha comenzado el intento",
+"ws",
+122
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"web",
+7596
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"ws",
+810
+],
+[
+"Cuestionario",
+"Intento del cuestionario revisado",
+"web",
+638
+],
+[
+"Cuestionario",
+"Intento del cuestionario revisado",
+"ws",
+73
+],
+[
+"Cuestionario",
+"Intento enviado",
+"web",
+1241
+],
+[
+"Cuestionario",
+"Intento enviado",
+"ws",
+115
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"web",
+5613
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"ws",
+722
+],
+[
+"Cuestionario",
+"Resumen del intento de cuestionario visualizado",
+"web",
+1408
+],
+[
+"Cuestionario",
+"Resumen del intento de cuestionario visualizado",
+"ws",
+133
+],
+[
+"Foro",
+"Curso buscado",
+"web",
+24
+],
+[
+"Foro",
+"Módulo de curso visto",
+"web",
+205
+],
+[
+"Foro",
+"Módulo de curso visto",
+"ws",
+105
+],
+[
+"Foro",
+"Tema visto",
+"web",
+1105
+],
+[
+"Foro",
+"Tema visto",
+"ws",
+127
+],
+[
+"Informe general",
+"Informe de resumen de notas visto",
+"web",
+6
+],
+[
+"Página",
+"Módulo de curso visto",
+"web",
+1276
+],
+[
+"Página",
+"Módulo de curso visto",
+"ws",
+296
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"web",
+24916
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"ws",
+4225
+],
+[
+"Sistema",
+"Actividad reciente vista",
+"web",
+100
+],
+[
+"Sistema",
+"Curso visto",
+"web",
+25914
+],
+[
+"Sistema",
+"Curso visto",
+"ws",
+8679
+],
+[
+"Sistema",
+"Informe usuario del curso visto",
+"web",
+337
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"web",
+69
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"ws",
+112
+],
+[
+"Sistema",
+"Perfil de usuario visto",
+"web",
+184
+],
+[
+"Sistema",
+"Sumarios de cursos vistos",
+"web",
+10
+],
+[
+"Sistema",
+"Usuario calificado",
+"web",
+1118
+],
+[
+"Sistema",
+"Usuario calificado",
+"ws",
+102
+],
+[
+"Tarea",
+"Borrar la confirmación de envío visualizada.",
+"web",
+32
+],
+[
+"Tarea",
+"El estado de la entrega se ha actualizado.",
+"web",
+33
+],
+[
+"Tarea",
+"Formulario de entrega visto.",
+"web",
+1030
+],
+[
+"Tarea",
+"Módulo de curso visto",
+"web",
+5963
+],
+[
+"Tarea",
+"Módulo de curso visto",
+"ws",
+536
+],
+[
+"Tarea",
+"Retroalimentación vista",
+"web",
+86
+],
+[
+"Tarea",
+"Retroalimentación vista",
+"ws",
+23
+],
+[
+"Tarea",
+"Se ha enviado una entrega",
+"web",
+703
+],
+[
+"Tarea",
+"Se ha enviado una entrega",
+"ws",
+55
+],
+[
+"Tarea",
+"Se ha visualizado el estado de la entrega.",
+"web",
+4141
+],
+[
+"Tarea",
+"Se ha visualizado el estado de la entrega.",
+"ws",
+536
+],
+[
+"URL",
+"Módulo de curso visto",
+"web",
+714
+],
+[
+"URL",
+"Módulo de curso visto",
+"ws",
+37
+],
+[
+"Usuario",
+"Informe de notas de usuario visto",
+"web",
+121
+],
+[
+"Usuario",
+"Informe de notas de usuario visto",
+"ws",
+132
+]
+],
+"staff_mix": [
+[
+"Sistema",
+"Evento de calendario actualizado",
+"cli",
+2435
+],
+[
+"Sistema",
+"Usuario calificado",
+"web",
+1285
+],
+[
+"Sistema",
+"Pregunta borrada",
+"cli",
+1039
+],
+[
+"Sistema",
+"Curso visto",
+"web",
+593
+],
+[
+"Tarea",
+"Formulario de calificaciones visto",
+"web",
+478
+],
+[
+"Sistema",
+"Sumarios de cursos vistos",
+"web",
+272
+],
+[
+"Cuestionario",
+"Página de edición del cuestionario visitada",
+"web",
+257
+],
+[
+"Sistema",
+"Módulo de curso actualizado",
+"web",
+237
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"web",
+204
+],
+[
+"Sistema",
+"Evento de calendario actualizado",
+"web",
+191
+],
+[
+"Cuestionario",
+"Informe de cuestionario visto",
+"web",
+125
+],
+[
+"Tarea",
+"Módulo de curso visto",
+"web",
+121
+],
+[
+"Sistema",
+"Pregunta visualizada",
+"web",
+110
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"web",
+108
+],
+[
+"Sistema",
+"Elemento de calificación actualizado",
+"web",
+105
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"web",
+95
+],
+[
+"Sistema",
+"Usuario calificado",
+"ws",
+95
+],
+[
+"Tarea",
+"Visualización de las Calificaciones",
+"web",
+87
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"web",
+75
+],
+[
+"Sistema",
+"Miembro del grupo añadido",
+"web",
+58
+],
+[
+"Sistema",
+"Categoría de preguntas visualizada",
+"web",
+54
+],
+[
+"Foro",
+"Módulo de curso visto",
+"web",
+51
+],
+[
+"Tarea",
+"Se ha calificado el envío.",
+"web",
+51
+],
+[
+"Sistema",
+"Perfil de usuario visto",
+"web",
+49
+],
+[
+"Sistema",
+"Módulo de curso creado",
+"web",
+43
+]
+],
+"n_staff": 13
+},
+"LED 2025": {
+"n_students": 332,
+"log_mean": 4.563177424949033,
+"log_sd": 0.6983853017293066,
+"start": "2025-01-01",
+"end": "2025-12-25",
+"student_mix": [
+[
+"Archivos enviados",
+"Entrega creada.",
+"web",
+104
+],
+[
+"Archivos enviados",
+"Entrega creada.",
+"ws",
+6
+],
+[
+"Archivos enviados",
+"Un fichero ha sido subido.",
+"web",
+106
+],
+[
+"Archivos enviados",
+"Un fichero ha sido subido.",
+"ws",
+6
+],
+[
+"Carpeta",
+"Directorio descargado en formato Zip",
+"web",
+14
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"web",
+174
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"ws",
+10
+],
+[
+"Cuestionario",
+"Ha comenzado el intento",
+"web",
+454
+],
+[
+"Cuestionario",
+"Ha comenzado el intento",
+"ws",
+13
+],
+[
+"Cuestionario",
+"Intento de cuestionario actualizado",
+"web",
+2680
+],
+[
+"Cuestionario",
+"Intento de cuestionario actualizado",
+"ws",
+102
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"web",
+3594
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"ws",
+111
+],
+[
+"Cuestionario",
+"Intento del cuestionario revisado",
+"web",
+360
+],
+[
+"Cuestionario",
+"Intento del cuestionario revisado",
+"ws",
+11
+],
+[
+"Cuestionario",
+"Intento enviado",
+"web",
+454
+],
+[
+"Cuestionario",
+"Intento enviado",
+"ws",
+13
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"web",
+2599
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"ws",
+120
+],
+[
+"Cuestionario",
+"Resumen del intento de cuestionario visualizado",
+"web",
+457
+],
+[
+"Cuestionario",
+"Resumen del intento de cuestionario visualizado",
+"ws",
+11
+],
+[
+"Foro",
+"Curso buscado",
+"web",
+12
+],
+[
+"Foro",
+"Módulo de curso visto",
+"web",
+451
+],
+[
+"Foro",
+"Módulo de curso visto",
+"ws",
+22
+],
+[
+"Foro",
+"Tema visto",
+"web",
+260
+],
+[
+"Foro",
+"Tema visto",
+"ws",
+15
+],
+[
+"Paquete SCORM",
+"Módulo de curso visto",
+"web",
+80
+],
+[
+"Paquete SCORM",
+"Módulo de curso visto",
+"ws",
+6
+],
+[
+"Paquete SCORM",
+"Sco iniciado",
+"web",
+61
+],
+[
+"Paquete de contenidos IMS",
+"Módulo de curso visto",
+"web",
+107
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"web",
+9198
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"ws",
+363
+],
+[
+"Reglas de acceso de Safe Exam Browser",
+"Se impidió el acceso al cuestionario",
+"web",
+5
+],
+[
+"Reglas de acceso de Safe Exam Browser",
+"Se impidió el acceso al cuestionario",
+"ws",
+11
+],
+[
+"Sistema",
+"Actividad reciente vista",
+"web",
+70
+],
+[
+"Sistema",
+"Curso visto",
+"web",
+11556
+],
+[
+"Sistema",
+"Curso visto",
+"ws",
+700
+],
+[
+"Sistema",
+"Informe usuario del curso visto",
+"web",
+325
+],
+[
+"Sistema",
+"Lista de insignias vista",
+"web",
+3
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"web",
+96
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"ws",
+25
+],
+[
+"Sistema",
+"Perfil de usuario visto",
+"web",
+164
+],
+[
+"Sistema",
+"Rol asignado",
+"web",
+14
+],
+[
+"Sistema",
+"Rol sin asignar",
+"web",
+5
+],
+[
+"Sistema",
+"Sección vista",
+"web",
+9
+],
+[
+"Sistema",
+"Usuario calificado",
+"web",
+469
+],
+[
+"Sistema",
+"Usuario calificado",
+"ws",
+13
+],
+[
+"Sistema",
+"Usuario matriculado en el curso",
+"web",
+10
+],
+[
+"Tarea",
+"Formulario de entrega visto.",
+"web",
+218
+],
+[
+"Tarea",
+"Módulo de curso visto",
+"web",
+1208
+],
+[
+"Tarea",
+"Módulo de curso visto",
+"ws",
+35
+],
+[
+"Tarea",
+"Se ha enviado una entrega",
+"web",
+106
+],
+[
+"Tarea",
+"Se ha enviado una entrega",
+"ws",
+6
+],
+[
+"Tarea",
+"Se ha visualizado el estado de la entrega.",
+"web",
+874
+],
+[
+"Tarea",
+"Se ha visualizado el estado de la entrega.",
+"ws",
+35
+],
+[
+"URL",
+"Módulo de curso visto",
+"web",
+159
+],
+[
+"URL",
+"Módulo de curso visto",
+"ws",
+3
+],
+[
+"Usuario",
+"Informe de notas de usuario visto",
+"web",
+111
+],
+[
+"Usuario",
+"Informe de notas de usuario visto",
+"ws",
+47
+]
+],
+"staff_mix": [
+[
+"Sistema",
+"Calificación borrada",
+"web",
+5456
+],
+[
+"Sistema",
+"Evento de calendario actualizado",
+"cli",
+934
+],
+[
+"Sistema",
+"Usuario calificado",
+"web",
+813
+],
+[
+"Sistema",
+"Miembro del grupo eliminado",
+"web",
+554
+],
+[
+"Sistema",
+"Rol sin asignar",
+"web",
+549
+],
+[
+"Sistema",
+"Usuario desmatriculado del curso",
+"web",
+549
+],
+[
+"Sistema",
+"Curso visto",
+"web",
+523
+],
+[
+"Sistema",
+"Pregunta creada",
+"web",
+402
+],
+[
+"Sistema",
+"Módulo de curso actualizado",
+"web",
+369
+],
+[
+"Sistema",
+"Evento de calendario creado",
+"web",
+298
+],
+[
+"Cuestionario",
+"Informe de cuestionario visto",
+"web",
+272
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"web",
+189
+],
+[
+"Sistema",
+"Evento de calendario actualizado",
+"web",
+182
+],
+[
+"Sistema",
+"Sumarios de cursos vistos",
+"web",
+173
+],
+[
+"Sistema",
+"Pregunta visualizada",
+"web",
+169
+],
+[
+"Cuestionario",
+"Página de edición del cuestionario visitada",
+"web",
+155
+],
+[
+"Sistema",
+"Categoría de preguntas visualizada",
+"web",
+148
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"web",
+145
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"web",
+96
+],
+[
+"Cuestionario",
+"Creada ranura",
+"web",
+72
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"web",
+70
+],
+[
+"Sistema",
+"Módulo de curso eliminado",
+"cli",
+69
+],
+[
+"Sistema",
+"Elemento de calificación actualizado",
+"web",
+67
+],
+[
+"Cuestionario",
+"Marca de espacio actualizada",
+"web",
+62
+],
+[
+"Sistema",
+"Módulo de curso creado",
+"web",
+57
+]
+],
+"n_staff": 13
+},
+"LED 2026": {
+"n_students": 347,
+"log_mean": 6.320607741541742,
+"log_sd": 0.9137205983744752,
+"start": "2026-01-02",
+"end": "2026-07-20",
+"student_mix": [
+[
+"Archivos enviados",
+"Entrega creada.",
+"web",
+456
+],
+[
+"Archivos enviados",
+"Entrega creada.",
+"ws",
+21
+],
+[
+"Archivos enviados",
+"Envío actualizado.",
+"web",
+95
+],
+[
+"Archivos enviados",
+"Un fichero ha sido subido.",
+"web",
+551
+],
+[
+"Archivos enviados",
+"Un fichero ha sido subido.",
+"ws",
+22
+],
+[
+"Carpeta",
+"Directorio descargado en formato Zip",
+"web",
+40
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"web",
+1184
+],
+[
+"Carpeta",
+"Módulo de curso visto",
+"ws",
+153
+],
+[
+"Comentarios de la entrega",
+"Comentario creado",
+"web",
+14
+],
+[
+"Cuestionario",
+"Ha comenzado el intento",
+"web",
+3222
+],
+[
+"Cuestionario",
+"Ha comenzado el intento",
+"ws",
+179
+],
+[
+"Cuestionario",
+"Intento de cuestionario actualizado",
+"web",
+23623
+],
+[
+"Cuestionario",
+"Intento de cuestionario actualizado",
+"ws",
+1007
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"web",
+24070
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"ws",
+1019
+],
+[
+"Cuestionario",
+"Intento del cuestionario revisado",
+"web",
+1799
+],
+[
+"Cuestionario",
+"Intento del cuestionario revisado",
+"ws",
+105
+],
+[
+"Cuestionario",
+"Intento enviado",
+"web",
+3165
+],
+[
+"Cuestionario",
+"Intento enviado",
+"ws",
+170
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"web",
+21875
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"ws",
+1502
+],
+[
+"Cuestionario",
+"Resumen del intento de cuestionario visualizado",
+"web",
+3439
+],
+[
+"Cuestionario",
+"Resumen del intento de cuestionario visualizado",
+"ws",
+193
+],
+[
+"Entregas de texto en línea",
+"Entrega creada.",
+"web",
+69
+],
+[
+"Entregas de texto en línea",
+"Entrega creada.",
+"ws",
+3
+],
+[
+"Entregas de texto en línea",
+"Envío actualizado.",
+"web",
+43
+],
+[
+"Entregas de texto en línea",
+"Un texto en línea ha sido subido.",
+"web",
+112
+],
+[
+"Entregas de texto en línea",
+"Un texto en línea ha sido subido.",
+"ws",
+4
+],
+[
+"Foro",
+"Algún contenido ha sido publicado.",
+"web",
+5
+],
+[
+"Foro",
+"Módulo de curso visto",
+"web",
+1359
+],
+[
+"Foro",
+"Módulo de curso visto",
+"ws",
+110
+],
+[
+"Foro",
+"Suscripción activada",
+"web",
+20
+],
+[
+"Foro",
+"Tema creado",
+"web",
+4
+],
+[
+"Foro",
+"Tema visto",
+"web",
+168
+],
+[
+"Foro",
+"Tema visto",
+"ws",
+9
+],
+[
+"Informe general",
+"Informe de resumen de notas visto",
+"web",
+8
+],
+[
+"Paquete SCORM",
+"Módulo de curso visto",
+"web",
+1447
+],
+[
+"Paquete SCORM",
+"Módulo de curso visto",
+"ws",
+94
+],
+[
+"Paquete SCORM",
+"Sco iniciado",
+"web",
+894
+],
+[
+"Paquete SCORM",
+"Sco iniciado",
+"ws",
+44
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"web",
+26358
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"ws",
+2581
+],
+[
+"Selección de grupo",
+"Módulo de curso visto",
+"web",
+3815
+],
+[
+"Selección de grupo",
+"Módulo de curso visto",
+"ws",
+427
+],
+[
+"Sistema",
+"Actividad reciente vista",
+"web",
+61
+],
+[
+"Sistema",
+"Curso visto",
+"web",
+34783
+],
+[
+"Sistema",
+"Curso visto",
+"ws",
+5326
+],
+[
+"Sistema",
+"Informe usuario del curso visto",
+"web",
+722
+],
+[
+"Sistema",
+"Lista de insignias vista",
+"web",
+5
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"web",
+571
+],
+[
+"Sistema",
+"Lista de usuarios vista",
+"ws",
+137
+],
+[
+"Sistema",
+"Miembro del grupo añadido",
+"web",
+202
+],
+[
+"Sistema",
+"Miembro del grupo añadido",
+"ws",
+31
+],
+[
+"Sistema",
+"Miembro del grupo eliminado",
+"web",
+40
+],
+[
+"Sistema",
+"Miembro del grupo eliminado",
+"ws",
+12
+],
+[
+"Sistema",
+"Perfil de usuario visto",
+"web",
+233
+],
+[
+"Sistema",
+"Perfil de usuario visto",
+"ws",
+4
+],
+[
+"Sistema",
+"Rol asignado",
+"web",
+3
+],
+[
+"Sistema",
+"Sección vista",
+"web",
+47360
+],
+[
+"Sistema",
+"Usuario calificado",
+"web",
+4206
+],
+[
+"Sistema",
+"Usuario calificado",
+"ws",
+209
+],
+[
+"Tarea",
+"Borrar la confirmación de envío visualizada.",
+"web",
+10
+],
+[
+"Tarea",
+"El estado de la entrega se ha actualizado.",
+"web",
+6
+],
+[
+"Tarea",
+"Envío eliminado",
+"web",
+6
+],
+[
+"Tarea",
+"Formulario de confirmación de entrega visto.",
+"web",
+37
+],
+[
+"Tarea",
+"Formulario de entrega visto.",
+"web",
+1508
+],
+[
+"Tarea",
+"Módulo de curso visto",
+"web",
+9204
+],
+[
+"Tarea",
+"Módulo de curso visto",
+"ws",
+533
+],
+[
+"Tarea",
+"Retroalimentación vista",
+"web",
+27
+],
+[
+"Tarea",
+"Se ha enviado una entrega",
+"web",
+538
+],
+[
+"Tarea",
+"Se ha enviado una entrega",
+"ws",
+21
+],
+[
+"Tarea",
+"Se ha visualizado el estado de la entrega.",
+"web",
+6997
+],
+[
+"Tarea",
+"Se ha visualizado el estado de la entrega.",
+"ws",
+532
+],
+[
+"URL",
+"Módulo de curso visto",
+"web",
+950
+],
+[
+"URL",
+"Módulo de curso visto",
+"ws",
+77
+],
+[
+"Usuario",
+"Informe de notas de usuario visto",
+"web",
+2135
+],
+[
+"Usuario",
+"Informe de notas de usuario visto",
+"ws",
+188
+]
+],
+"staff_mix": [
+[
+"Sistema",
+"Pregunta borrada",
+"cli",
+526688
+],
+[
+"Sistema",
+"Usuario calificado",
+"web",
+10722
+],
+[
+"Sistema",
+"Calificación borrada",
+"cli",
+2960
+],
+[
+"Sistema",
+"Evento de calendario actualizado",
+"cli",
+1621
+],
+[
+"Sistema",
+"Sección vista",
+"web",
+1395
+],
+[
+"Sistema",
+"Curso visto",
+"web",
+1239
+],
+[
+"Sistema",
+"Módulo de curso actualizado",
+"web",
+1074
+],
+[
+"Sistema",
+"Evento de calendario actualizado",
+"web",
+1068
+],
+[
+"Cuestionario",
+"Módulo de curso visto",
+"web",
+958
+],
+[
+"Sistema",
+"Pregunta creada",
+"web",
+602
+],
+[
+"Sistema",
+"Elemento de calificación actualizado",
+"web",
+564
+],
+[
+"Tarea",
+"Módulo de curso visto",
+"web",
+489
+],
+[
+"Cuestionario",
+"Página de edición del cuestionario visitada",
+"web",
+384
+],
+[
+"Cuestionario",
+"Informe de cuestionario visto",
+"web",
+326
+],
+[
+"Sistema",
+"Categoría de preguntas visualizada",
+"web",
+315
+],
+[
+"Cuestionario",
+"Intento de cuestionario visualizado",
+"web",
+296
+],
+[
+"Informe del calificador",
+"Informe del calificador visto",
+"web",
+272
+],
+[
+"Tarea",
+"Visualización de las Calificaciones",
+"web",
+265
+],
+[
+"Sistema",
+"Usuario calificado",
+"ws",
+254
+],
+[
+"Sistema",
+"Pregunta visualizada",
+"web",
+238
+],
+[
+"Cuestionario",
+"Intento de cuestionario actualizado",
+"web",
+234
+],
+[
+"Tarea",
+"Se ha visualizado el estado de la entrega.",
+"web",
+197
+],
+[
+"Cuestionario",
+"Creada ranura",
+"web",
+188
+],
+[
+"Recurso",
+"Módulo de curso visto",
+"web",
+175
+],
+[
+"Sistema",
+"Módulo de curso creado",
+"web",
+162
+]
+],
+"n_staff": 13
+}
+}

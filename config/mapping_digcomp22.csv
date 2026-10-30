@@ -1,0 +1,296 @@
+component,event_name,subcompetence,weight,student_behavior
+recurso,módulo de curso visto,1.1,0.7,yes
+recurso,módulo de curso visto,1.2,0.3,yes
+carpeta,módulo de curso visto,1.1,0.6,yes
+carpeta,módulo de curso visto,1.3,0.4,yes
+carpeta,directorio descargado en formato zip,1.3,0.7,yes
+carpeta,directorio descargado en formato zip,1.1,0.3,yes
+carpeta,carpeta actualizada,3.1,0.6,yes
+carpeta,carpeta actualizada,1.3,0.4,yes
+url,módulo de curso visto,1.1,0.6,yes
+url,módulo de curso visto,1.2,0.4,yes
+página,módulo de curso visto,1.1,0.6,yes
+página,módulo de curso visto,1.2,0.4,yes
+sistema,sección vista,1.1,0.8,yes
+sistema,sección vista,1.3,0.2,yes
+sistema,sumarios de cursos vistos,1.1,0.7,yes
+sistema,sumarios de cursos vistos,1.2,0.3,yes
+sistema,evento de calendario creado,1.3,0.6,yes
+sistema,evento de calendario creado,5.2,0.4,yes
+sistema,evento de calendario actualizado,1.3,0.7,yes
+sistema,evento de calendario actualizado,5.2,0.3,yes
+sistema,evento de calendario borrado,1.3,0.7,yes
+sistema,evento de calendario borrado,5.2,0.3,yes
+foro,curso buscado,1.1,0.8,yes
+foro,curso buscado,1.2,0.2,yes
+foro,tema visto,1.1,0.5,yes
+foro,tema visto,2.1,0.5,yes
+foro,tema creado,2.2,0.5,yes
+foro,tema creado,2.4,0.3,yes
+foro,tema creado,3.1,0.2,yes
+foro,algún contenido ha sido publicado,2.2,0.5,yes
+foro,algún contenido ha sido publicado,2.4,0.3,yes
+foro,algún contenido ha sido publicado,2.5,0.2,yes
+foro,mensaje creado,2.2,0.4,yes
+foro,mensaje creado,2.4,0.4,yes
+foro,mensaje creado,2.5,0.2,yes
+foro,mensaje actualizado,3.2,0.5,yes
+foro,mensaje actualizado,2.5,0.3,yes
+foro,mensaje actualizado,5.4,0.2,yes
+foro,mensaje borrado,2.6,0.6,yes
+foro,mensaje borrado,2.5,0.4,yes
+foro,tema borrado,2.6,0.6,yes
+foro,tema borrado,1.3,0.4,yes
+foro,suscripción activada,2.1,0.6,yes
+foro,suscripción activada,1.3,0.4,yes
+foro,suscripción anulada,1.3,0.6,yes
+foro,suscripción anulada,4.3,0.4,yes
+foro,se ha suscrito a esta discusión,2.1,0.7,yes
+foro,se ha suscrito a esta discusión,1.3,0.3,yes
+foro,se ha borrado la suscripción de esta discusión,1.3,0.7,yes
+foro,se ha borrado la suscripción de esta discusión,2.1,0.3,yes
+foro,seguimiento de lectura habilitado,1.3,0.7,yes
+foro,seguimiento de lectura habilitado,5.2,0.3,yes
+foro,seguimiento de lectura deshabilitado,1.3,0.7,yes
+foro,seguimiento de lectura deshabilitado,5.2,0.3,yes
+foro,suscriptores visualizados,2.1,0.6,yes
+foro,suscriptores visualizados,2.6,0.4,yes
+correo,mensaje enviado,2.1,0.6,yes
+correo,mensaje enviado,2.5,0.4,yes
+correo,mensaje visto,2.1,0.7,yes
+correo,mensaje visto,1.1,0.3,yes
+comentarios de la entrega,comentario creado,2.1,0.5,yes
+comentarios de la entrega,comentario creado,2.5,0.3,yes
+comentarios de la entrega,comentario creado,3.1,0.2,yes
+comentarios de la entrega,comentario eliminado,2.6,0.6,yes
+comentarios de la entrega,comentario eliminado,2.5,0.4,yes
+sistema,lista de usuarios vista,2.1,0.6,yes
+sistema,lista de usuarios vista,2.6,0.4,yes
+sistema,perfil de usuario visto,2.6,0.6,yes
+sistema,perfil de usuario visto,2.1,0.4,yes
+sistema,miembro del grupo añadido,2.4,0.7,yes
+sistema,miembro del grupo añadido,2.1,0.3,yes
+sistema,miembro del grupo eliminado,2.4,0.6,yes
+sistema,miembro del grupo eliminado,2.6,0.4,yes
+sistema,grupo creado,2.4,0.7,yes
+sistema,grupo creado,5.2,0.3,yes
+sistema,grupo eliminado,2.4,0.6,yes
+sistema,grupo eliminado,1.3,0.4,yes
+tarea,formulario de entrega visto,5.2,0.6,yes
+tarea,formulario de entrega visto,3.1,0.4,yes
+tarea,se ha enviado una entrega,3.1,0.6,yes
+tarea,se ha enviado una entrega,5.2,0.4,yes
+tarea,se ha calificado el envío,5.4,0.6,no
+tarea,se ha calificado el envío,3.1,0.4,no
+archivos enviados,entrega creada,3.1,0.7,yes
+archivos enviados,entrega creada,5.2,0.3,yes
+archivos enviados,un fichero ha sido subido,3.1,0.5,yes
+archivos enviados,un fichero ha sido subido,1.3,0.3,yes
+archivos enviados,un fichero ha sido subido,5.2,0.2,yes
+archivos enviados,envío actualizado,3.2,0.5,yes
+archivos enviados,envío actualizado,5.4,0.5,yes
+sistema,módulo de curso creado,3.1,0.7,yes
+sistema,módulo de curso creado,5.2,0.3,yes
+sistema,módulo de curso actualizado,3.1,0.6,yes
+sistema,módulo de curso actualizado,1.3,0.4,yes
+sistema,módulo de curso eliminado,1.3,0.6,yes
+sistema,módulo de curso eliminado,3.1,0.4,yes
+sistema,sección del curso creada,3.1,0.7,yes
+sistema,sección del curso creada,5.2,0.3,yes
+sistema,sección de curso actualizado,3.1,0.6,yes
+sistema,sección de curso actualizado,1.3,0.4,yes
+sistema,sección de curso eliminada,1.3,0.6,yes
+sistema,sección de curso eliminada,3.1,0.4,yes
+sistema,elemento de calificación creado,3.1,0.6,yes
+sistema,elemento de calificación creado,5.2,0.4,yes
+sistema,elemento de calificación actualizado,3.1,0.6,yes
+sistema,elemento de calificación actualizado,5.2,0.4,yes
+sistema,elemento de calificación eliminado,1.3,0.6,yes
+sistema,elemento de calificación eliminado,3.1,0.4,yes
+sistema,pregunta creada,3.1,0.7,yes
+sistema,pregunta creada,5.3,0.3,yes
+sistema,pregunta visualizada,1.2,0.6,yes
+sistema,pregunta visualizada,3.1,0.4,yes
+sistema,pregunta actualizada,3.2,0.6,yes
+sistema,pregunta actualizada,3.1,0.4,yes
+sistema,pregunta borrada,1.3,0.6,yes
+sistema,pregunta borrada,3.1,0.4,yes
+sistema,pregunta movida,1.3,0.7,yes
+sistema,pregunta movida,3.1,0.3,yes
+sistema,preguntas importadas,3.1,0.5,yes
+sistema,preguntas importadas,1.3,0.5,yes
+sistema,categoría de preguntas creada,3.1,0.6,yes
+sistema,categoría de preguntas creada,1.3,0.4,yes
+sistema,categoría de preguntas visualizada,1.1,0.6,yes
+sistema,categoría de preguntas visualizada,3.1,0.4,yes
+sistema,categoría de preguntas actualizada,1.3,0.6,yes
+sistema,categoría de preguntas actualizada,3.1,0.4,yes
+sistema,categoría de preguntas borrada,1.3,0.7,yes
+sistema,categoría de preguntas borrada,3.1,0.3,yes
+sistema,curso actualizado,3.1,0.5,yes
+sistema,curso actualizado,5.2,0.5,yes
+papelera de reciclaje,elemento borrado,1.3,0.7,yes
+papelera de reciclaje,elemento borrado,3.1,0.3,yes
+papelera de reciclaje,elemento creado,1.3,0.7,yes
+papelera de reciclaje,elemento creado,3.1,0.3,yes
+reglas de acceso de safe exam browser,se impidió el acceso al cuestionario,4.1,0.6,no
+reglas de acceso de safe exam browser,se impidió el acceso al cuestionario,5.1,0.4,no
+sistema,rol asignado,4.2,0.6,no
+sistema,rol asignado,2.6,0.4,no
+sistema,rol sin asignar,4.2,0.6,no
+sistema,rol sin asignar,2.6,0.4,no
+sistema,usuario matriculado en el curso,4.2,0.5,no
+sistema,usuario matriculado en el curso,2.1,0.5,no
+sistema,usuario desmatriculado del curso,4.2,0.6,no
+sistema,usuario desmatriculado del curso,2.6,0.4,no
+sistema,instancia de inscripción creada,4.2,0.6,no
+sistema,instancia de inscripción creada,5.2,0.4,no
+sistema,instancia de inscripción actualizada,4.2,0.6,no
+sistema,instancia de inscripción actualizada,5.2,0.4,no
+paquete scorm,sco iniciado,5.2,0.6,yes
+paquete scorm,sco iniciado,1.1,0.4,yes
+paquete scorm,enviado estatus scorm,5.1,0.5,yes
+paquete scorm,enviado estatus scorm,5.2,0.5,yes
+paquete scorm,enviada puntuación bruta scorm,5.4,0.6,yes
+paquete scorm,enviada puntuación bruta scorm,5.1,0.4,yes
+paquete scorm,reporte visualizado,5.4,0.8,yes
+paquete scorm,reporte visualizado,1.2,0.2,yes
+paquete scorm,visualizado rastreos,5.4,0.7,yes
+paquete scorm,visualizado rastreos,1.2,0.3,yes
+cuestionario,ha comenzado el intento,5.1,0.5,yes
+cuestionario,ha comenzado el intento,5.2,0.5,yes
+cuestionario,intento de cuestionario actualizado,5.1,0.5,yes
+cuestionario,intento de cuestionario actualizado,5.4,0.5,yes
+cuestionario,intento enviado,5.1,0.6,yes
+cuestionario,intento enviado,5.4,0.4,yes
+cuestionario,intento del cuestionario revisado,5.4,0.7,yes
+cuestionario,intento del cuestionario revisado,1.2,0.3,yes
+cuestionario,resumen del intento de cuestionario visualizado,5.4,0.8,yes
+cuestionario,resumen del intento de cuestionario visualizado,1.2,0.2,yes
+cuestionario,intento abandonado,5.1,0.5,yes
+cuestionario,intento abandonado,4.3,0.5,yes
+cuestionario,intento de cuestionario reabierto,5.1,0.6,yes
+cuestionario,intento de cuestionario reabierto,5.4,0.4,yes
+cuestionario,informe de cuestionario visto,5.4,0.7,yes
+cuestionario,informe de cuestionario visto,1.2,0.3,yes
+cuestionario,vista previa del intento iniciada,5.2,0.6,yes
+cuestionario,vista previa del intento iniciada,1.1,0.4,yes
+cuestionario,intento de cuestionario recalificado,5.4,0.6,no
+cuestionario,intento de cuestionario recalificado,1.2,0.4,no
+cuestionario,pregunta calificada manualmente,5.4,0.6,yes
+cuestionario,pregunta calificada manualmente,1.2,0.4,yes
+cuestionario,calificación del cuestionario actualizada,5.4,0.5,yes
+cuestionario,calificación del cuestionario actualizada,3.1,0.5,yes
+cuestionario,página de edición del cuestionario visitada,3.1,0.6,yes
+cuestionario,página de edición del cuestionario visitada,5.2,0.4,yes
+cuestionario,creada ranura,3.1,0.7,yes
+cuestionario,creada ranura,5.2,0.3,yes
+cuestionario,ranura eliminada,3.1,0.6,yes
+cuestionario,ranura eliminada,1.3,0.4,yes
+cuestionario,marca de espacio actualizada,3.1,0.6,yes
+cuestionario,marca de espacio actualizada,5.2,0.4,yes
+cuestionario,espacio movido,1.3,0.6,yes
+cuestionario,espacio movido,3.1,0.4,yes
+cuestionario,cuestionario re-paginado,3.1,0.6,yes
+cuestionario,cuestionario re-paginado,5.2,0.4,yes
+cuestionario,salto de página creado,3.1,0.6,yes
+cuestionario,salto de página creado,5.2,0.4,yes
+cuestionario,salto de página eliminado,3.1,0.6,yes
+cuestionario,salto de página eliminado,5.2,0.4,yes
+cuestionario,mezcla aleatoria de secciones actualizada,3.1,0.5,yes
+cuestionario,mezcla aleatoria de secciones actualizada,5.2,0.5,yes
+cuestionario,versión slot actualizada,3.1,0.6,yes
+cuestionario,versión slot actualizada,1.3,0.4,yes
+tarea,retroalimentación vista,5.4,0.7,yes
+tarea,retroalimentación vista,1.2,0.3,yes
+tarea,el estado de la entrega se ha actualizado,5.4,0.5,yes
+tarea,el estado de la entrega se ha actualizado,3.2,0.5,yes
+tarea,formulario de calificaciones visto,5.4,0.8,yes
+tarea,formulario de calificaciones visto,1.2,0.2,yes
+tarea,visualización de las calificaciones,5.4,0.8,yes
+tarea,visualización de las calificaciones,1.2,0.2,yes
+tarea,borrar la confirmación de envío visualizada,5.1,0.6,yes
+tarea,borrar la confirmación de envío visualizada,2.6,0.4,yes
+tarea,envío eliminado,2.6,0.6,yes
+tarea,envío eliminado,5.1,0.4,yes
+sistema,usuario calificado,5.4,0.7,no
+sistema,usuario calificado,1.2,0.3,no
+sistema,informe usuario del curso visto,5.4,0.7,yes
+sistema,informe usuario del curso visto,1.2,0.3,yes
+sistema,calificación borrada,1.3,0.6,no
+sistema,calificación borrada,5.4,0.4,no
+sistema,lista de insignias vista,5.4,0.6,yes
+sistema,lista de insignias vista,2.6,0.4,yes
+sistema,curso restaurado,5.1,0.7,yes
+sistema,curso restaurado,1.3,0.3,yes
+sistema,reinicio de curso iniciado,5.1,0.6,yes
+sistema,reinicio de curso iniciado,1.3,0.4,yes
+sistema,reinicio de curso finalizado,5.1,0.7,yes
+sistema,reinicio de curso finalizado,1.3,0.3,yes
+tours para usuarios,tour iniciado,5.2,0.6,yes
+tours para usuarios,tour iniciado,1.1,0.4,yes
+tours para usuarios,tour terminado,5.2,0.7,yes
+tours para usuarios,tour terminado,5.4,0.3,yes
+tours para usuarios,tour reiniciado,5.2,0.5,yes
+tours para usuarios,tour reiniciado,5.4,0.5,yes
+registros,informe de registro visualizado,1.2,0.6,yes
+registros,informe de registro visualizado,5.4,0.4,yes
+registros,informe de registro de usuario visualizado,1.2,0.7,yes
+registros,informe de registro de usuario visualizado,5.4,0.3,yes
+registros activos,informe de registro en tiempo real visualizado,1.2,0.7,yes
+registros activos,informe de registro en tiempo real visualizado,5.2,0.3,yes
+informe del calificador,informe del calificador visto,1.2,0.6,yes
+informe del calificador,informe del calificador visto,5.4,0.4,yes
+informe general,informe de resumen de notas visto,5.4,0.7,yes
+informe general,informe de resumen de notas visto,1.2,0.3,yes
+estadísticas,informe de estadísticas visto,1.2,0.7,yes
+estadísticas,informe de estadísticas visto,5.4,0.3,yes
+actividad del curso,informe de actividad visto,1.2,0.6,yes
+actividad del curso,informe de actividad visto,5.4,0.4,yes
+actividad del curso,informe preliminar visualizado,1.2,0.6,yes
+actividad del curso,informe preliminar visualizado,5.4,0.4,yes
+participación en el curso,informe de participación visto,5.4,0.7,yes
+participación en el curso,informe de participación visto,1.2,0.3,yes
+usuario,informe de notas de usuario visto,5.4,0.8,yes
+usuario,informe de notas de usuario visto,1.2,0.2,yes
+sistema,curso visto,1.1,1.0,yes
+cuestionario,módulo de curso visto,1.1,1.0,yes
+tarea,módulo de curso visto,1.1,1.0,yes
+paquete scorm,módulo de curso visto,1.1,1.0,yes
+paquete de contenidos ims,módulo de curso visto,1.1,1.0,yes
+sistema,actividad reciente vista,1.1,1.0,yes
+foro,módulo de curso visto,1.1,1.0,yes
+selección de grupo,módulo de curso visto,1.1,1.0,yes
+taller,módulo de curso visto,1.1,1.0,yes
+cuestionario,intento de cuestionario visualizado,5.1,0.5,yes
+cuestionario,intento de cuestionario visualizado,5.4,0.5,yes
+tarea,se ha visualizado el estado de la entrega,1.1,1.0,yes
+entregas de texto en línea,entrega creada,3.1,0.7,yes
+entregas de texto en línea,entrega creada,5.2,0.3,yes
+entregas de texto en línea,un texto en línea ha sido subido,3.1,0.5,yes
+entregas de texto en línea,un texto en línea ha sido subido,1.3,0.3,yes
+entregas de texto en línea,un texto en línea ha sido subido,5.2,0.2,yes
+entregas de texto en línea,envío actualizado,3.2,0.5,yes
+entregas de texto en línea,envío actualizado,5.4,0.5,yes
+tarea,formulario de confirmación de entrega visto,5.2,0.6,yes
+tarea,formulario de confirmación de entrega visto,3.1,0.4,yes
+cuestionario,instancia del módulo del curso visualizada,1.1,1.0,yes
+foro,instancia del módulo del curso visualizada,1.1,1.0,yes
+paquete scorm,instancia del módulo del curso visualizada,1.1,1.0,yes
+sistema,instancia del módulo del curso visualizada,1.1,1.0,yes
+selección de grupo,elección efectuada,2.4,0.7,yes
+selección de grupo,elección efectuada,2.1,0.3,yes
+selección de grupo,elección quitada,2.4,0.6,yes
+selección de grupo,elección quitada,2.6,0.4,yes
+cuestionario,intento del cuestionario eliminado,1.3,0.6,yes
+cuestionario,intento del cuestionario eliminado,3.1,0.4,yes
+informe de resultados,informe de resultados visto,1.2,0.6,yes
+informe de resultados,informe de resultados visto,5.4,0.4,yes
+hoja de cálculo openoffice,calificación opendocument exportada,1.3,0.7,yes
+hoja de cálculo openoffice,calificación opendocument exportada,1.2,0.3,yes
+tarea,todos los envíos se están descargando,1.3,0.7,yes
+tarea,todos los envíos se están descargando,1.1,0.3,yes
+selección de grupo,informe visto,1.2,0.6,yes
+selección de grupo,informe visto,5.4,0.4,yes
+tarea,envío visto,5.4,0.7,yes
+tarea,envío visto,1.2,0.3,yes
