@@ -1,0 +1,5 @@
+__pycache__/
+results/
+*.pyc
+# never commit real logs
+data/real/
