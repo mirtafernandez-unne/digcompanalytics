@@ -32,6 +32,7 @@ evidence supports the inference (observability index σ). The pipeline has five 
 | `src/analysis.py` | Evaluation: corpus, observability under three configurations, K-means (k = 2..7), baselines B1 and B2, bootstrap stability, PCA, sequential patterns, cross-cohort recurrence |
 | `src/transfer_operational.py` | Operational transfer test (target expressed through the source distribution) |
 | `src/robustness.py` | Robustness analyses: k = 3 stability, area selection, mapping-weight perturbation (Dirichlet), discriminant evidence |
+| `src/scenario_navigation.py` | Sensitivity to the navigation rule: entry pages of activities mapped like the activity itself |
 | `config/mapping_digcomp22.csv` | Event mapping: 151 Moodle (component, event) pairs, Spanish-language interface |
 | `scripts/pseudonymize.py` | Converts a raw Moodle export into the pseudonymized input format |
 | `scripts/make_synthetic.py` | Generates synthetic logs from aggregate profiles (`synthetic_profiles.json`) |
