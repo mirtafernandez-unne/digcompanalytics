@@ -13,8 +13,11 @@ DIGCOMPAnalytics turns a Moodle log export into behavioral proxy indicators orga
 21 subcompetences of DigComp 2.2, and reports for each student and area how much behavioral
 evidence supports the inference (observability index σ). The pipeline has five stages:
 
-1. **Actor filtering**: teachers are identified through 13 teacher-only actions, administrative
-   accounts and scheduled-task events (`origin = cli`) are excluded, and non-behavioral records
+1. **Actor filtering**: teachers are identified through 13 teacher-only actions (a grade deletion
+   counts only when it affects another user, since Moodle also logs one under the student's own id
+   when a quiz is attempted again); accounts whose records are mostly administrative are excluded,
+   isolated administrative records of a student are dropped as records, scheduled-task events
+   (`origin = cli`) are excluded, and non-behavioral records
    (enrolment, role assignment, automatic grading, quiz access-rule denials) are kept for
    traceability but excluded from inference.
 2. **Weighted event mapping**: each (component, event) pair is mapped to a probability
@@ -33,7 +36,7 @@ evidence supports the inference (observability index σ). The pipeline has five 
 | `src/transfer_operational.py` | Operational transfer test (target expressed through the source distribution) |
 | `src/robustness.py` | Robustness analyses: k = 3 stability, area selection, mapping-weight perturbation (Dirichlet), discriminant evidence |
 | `src/scenario_navigation.py` | Sensitivity to the navigation rule: entry pages of activities mapped like the activity itself |
-| `config/mapping_digcomp22.csv` | Event mapping: 151 Moodle (component, event) pairs, Spanish-language interface |
+| `config/mapping_digcomp22.csv` | Event mapping: 155 Moodle (component, event) pairs, Spanish-language interface |
 | `scripts/pseudonymize.py` | Converts a raw Moodle export into the pseudonymized input format |
 | `scripts/make_synthetic.py` | Generates synthetic logs from aggregate profiles (`synthetic_profiles.json`) |
 | `data/synthetic/` | Synthetic LED (three cohorts) and ITAA logs |
